@@ -1,0 +1,14 @@
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\bin\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.deps.json
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\bin\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.runtimeconfig.json
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\bin\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.runtimeconfig.dev.json
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\bin\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.dll
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.csprojAssemblyReference.cache
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.csproj.CoreCompileInputs.cache
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.RazorAssemblyInfo.cache
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.RazorAssemblyInfo.cs
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.AssemblyInfoInputs.cache
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.AssemblyInfo.cs
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.RazorTargetAssemblyInfo.cache
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\bin\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.pdb
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.dll
+D:\WORK\GIT\GITHUB\PGPEncryptAndDecrypt\PGPEncryptAndDecrypt\obj\Debug\netcoreapp2.1\PGPEncryptAndDecrypt.pdb
